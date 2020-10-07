@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MagicText">
+        <attr name="magic_text" format="string" />
+            <!-- For single Sub String -->
+        <attr name="magic_color" format="color" />
+        <attr name="magic_size" format="integer" />
+        <attr name="magic_style" format="string" />
+        <attr name="magic_substring" format="string" />
+            <!-- For multiple Sub String -->
+        <attr name="magic_multiple_color" format="string" />
+        <attr name="magic_multiple_size" format="string" />
+        <attr name="magic_multiple_style" format="string" />
+        <attr name="magic_multiple_substring" format="string" />
+    </declare-styleable>
+</resources>
